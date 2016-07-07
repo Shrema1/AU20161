@@ -50,7 +50,7 @@ public static void main(String[]args)
 		}
 		catch(ArithmeticException e)
 		{
-			System.out.println("Cant divide by zero");
+			System.out.println("Cant divide by zero vdfdg");
 		}
 	break;
 	case 4:System.out.println(obj.multiply(a,b));
